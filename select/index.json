@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ラブル",
+  "base_artist": "須田景凪",
+  "createdAt": "2026-02-16T03:00:33.572192Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラブル",
+      "artist": "須田景凪",
+      "has_synced": false,
+      "path": "select/pl_01_ラブル_須田景凪.txt"
+    }
+  ]
+}
